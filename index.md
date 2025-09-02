@@ -91,7 +91,7 @@ redirect_from:
   <tr>
     <td><img src="assets/openai.png" height="40" alt="OpenAI"></td>
     <td><img src="assets/nvidia.png" height="40" alt="NVIDIA"></td>
-    <td><img src="assets/berkeley.png" height="40" alt="UC Berkeley"></td>
+    <td><img src="assets/nvidia.png" height="40" alt="UC Berkeley"></td>
     <td><img src="assets/Google.jpg" height="40" alt="Google"></td>
   </tr>
 
