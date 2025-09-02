@@ -14,30 +14,50 @@ redirect_from:
 
 ## Course Staff
 
-<table>
-<tbody>
-<tr>
-<td>Instructor</td>
-<td>(Guest) Co-instructor</td>
-</tr>
-<tr>
-<td><img src="assets/dawn-berkeley.jpg" height=200/></td>
-<td><img src="assets/XinyunChen.jpg" height=200/></td>
-</tr>
-<tr>
-<td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
-<td>Xinyun Chen</td>
-<tr>
-<td>Professor, UC Berkeley</td>
-<td>Research Scientist, Meta</td>
-</tr>
-</tr>
-</tbody>
+<table class="instructors">
+  <tbody>
+    <tr>
+      <td>Instructor</td>
+      <td>(Guest) Co-instructor</td>
+    </tr>
+    <tr>
+      <td><img src="assets/dawn-berkeley.jpg" height="200" alt="Dawn Song"></td>
+      <td><img src="assets/XinyunChen.jpg" height="200" alt="Xinyun Chen"></td>
+    </tr>
+    <tr>
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+      <td>Xinyun Chen</td>
+    </tr>
+    <tr>
+      <td>Professor, UC Berkeley</td>
+      <td>Research Scientist, Meta</td>
+    </tr>
+  </tbody>
 </table>
+
+<style>
+  .instructors {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+  .instructors td {
+    text-align: center;     
+    vertical-align: middle; 
+    padding: 10px;
+  }
+  .instructors img {
+    display: block; 
+    margin: 0 auto; 
+  }
+</style>
 
 ## Guest Speakers
 
+
 <style>
+  h2 { text-align: center; }
+
   .table {
     width: 100%;
     table-layout: fixed;
@@ -45,71 +65,73 @@ redirect_from:
   }
   .table td {
     width: 25%;
-    text-align: center;
-    vertical-align: top;
+    text-align: center;    
+    vertical-align: middle; 
     padding: 10px;
+  }
+  .table img {
+    display: block;  
+    margin: 0 auto; 
   }
 </style>
 
 <table class="table">
-<tr>
-<td><img src="assets/Yann_Dubois.png" height=150/></td>
-<td><img src="assets/Yangqing_Jia.png" height=150/></td>
-<td><img src="assets/Jiantao_Jiao.png" height=150/></td>
-<td><img src="assets/Rao_Surapaneni.png" height=150/></td>
-</tr>
+  <tr>
+    <td><img src="assets/Yann_Dubois.png" height="150" alt="Yann Dubois"></td>
+    <td><img src="assets/Yangqing_Jia.png" height="150" alt="Yangqing Jia"></td>
+    <td><img src="assets/Jiantao_Jiao.png" height="150" alt="Jiantao Jiao"></td>
+    <td><img src="assets/Rao_Surapaneni.png" height="150" alt="Rao Surapaneni"></td>
+  </tr>
+  <tr>
+    <td>Yann Dubois</td>
+    <td>Yangqing Jia</td>
+    <td>Jiantao Jiao</td>
+    <td>Rao Surapaneni</td>
+  </tr>
+  <tr>
+    <td><img src="assets/openai.png" height="40" alt="OpenAI"></td>
+    <td><img src="assets/nvidia.png" height="40" alt="NVIDIA"></td>
+    <td><img src="assets/berkeley.png" height="40" alt="UC Berkeley"></td>
+    <td><img src="assets/Google.jpg" height="40" alt="Google"></td>
+  </tr>
 
-<tr>
-<td>Yann Dubois</td>
-<td>Yangqing Jia</td>
-<td>Jiantao Jiao</td>
-<td>Rao Surapaneni</td>
-</tr>
- 
-<tr>
-<td><img src="assets/openai.png" height=40/></td>
-<td><img src="assets/nvidia.png" height=40/></td>
-<td><img src="assets/berkeley.png" height=40/></td>
-<td><img src="assets/Google.jpg" height=50/></td>
-</tr>
+  <tr>
+    <td><img src="assets/Weizhu_Chen.png" height="150" alt="Weizhu Chen"></td>
+    <td><img src="assets/Noam_Brown.png" height="150" alt="Noam Brown"></td>
+    <td><img src="assets/Oriol_Vinyals.png" height="150" alt="Oriol Vinyals"></td>
+    <td><img src="assets/Pushmeet_Kohli.png" height="150" alt="Pushmeet Kohli"></td>
+  </tr>
+  <tr>
+    <td>Weizhu Chen</td>
+    <td>Noam Brown</td>
+    <td>Oriol Vinyals</td>
+    <td>Pushmeet Kohli</td>
+  </tr>
+  <tr>
+    <td><img src="assets/microsoft.png" height="40" alt="Microsoft"></td>
+    <td><img src="assets/openai.png" height="40" alt="OpenAI"></td>
+    <td><img src="assets/Google%20Deepmind.png" height="40" alt="Google DeepMind"></td>
+    <td><img src="assets/Google%20Deepmind.png" height="40" alt="Google DeepMind"></td>
+  </tr>
 
-
-
-<tr>
-<td><img src="assets/Weizhu_Chen.png" height=150/></td>
-<td><img src="assets/Noam_Brown.png" height=150/></td>
-<td><img src="assets/Oriol_Vinyals.png" height=150/></td>
-<td><img src="assets/Pushmeet_Kohli.png" height=150/></td>
-</tr>
-
-<tr>
-<td>Weizhu Chen</td>
-<td>Noam Brown</td>
-<td>Oriol Vinyals</td>
-<td>Pushmeet Kohli</td>
-</tr>
- 
-<tr>
-<td><img src="assets/microsoft.png" height=50/></td>
-<td><img src="assets/openai.png" height=40/></td>
-<td><img src="assets/Google Deepmind.png" height=50/></td>
-<td><img src="assets/Google Deepmind.png" height=40/></td>
-</tr>
-
-
-
-<tr>
-<td><img src="assets/Peter_Stone.png" height=150/></td>
-</tr>
-
-<tr>
-<td>Peter Stone</td>
-</tr>
- 
-<tr>
-<td><img src="assets/austin.png" height=40/></td>
-</tr>
-
+  <tr>
+    <td><img src="assets/Peter_Stone.png" height="150" alt="Peter Stone"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Peter Stone</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="assets/austin.png" height="40" alt="UT Austin"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ## Class Time and Location
