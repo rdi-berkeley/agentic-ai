@@ -96,7 +96,7 @@ redirect_from:
   </tr>
 
   <tr>
-    <td><img src="assets/Weizhu_Chen.png" height="150" alt="Weizhu Chen"></td>
+    <td><img src="assets/Weizhu_Chen_new.png" height="150" alt="Weizhu Chen"></td>
     <td><img src="assets/Noam_Brown.png" height="150" alt="Noam Brown"></td>
     <td><img src="assets/Oriol_Vinyals.png" height="150" alt="Oriol Vinyals"></td>
     <td><img src="assets/Pushmeet_Kohli.png" height="150" alt="Pushmeet Kohli"></td>
