@@ -60,22 +60,29 @@ redirect_from:
   .speakers {
     width: 100%;
     table-layout: fixed;
-    border-collapse: collapse;
+    border-collapse: collapse;       /* 让网格线更利落 */
   }
   .speakers td {
     width: 33.333%;
     text-align: center;
     vertical-align: top;
-    padding: 12px;
+    padding: 14px 16px;
+    border: 1px solid #e5e7eb;      /* 每格外边框（与示例一致的浅灰） */
+    background: #fff;
   }
-  .speakers img { 
-    display: block; 
-    margin: 0 auto; 
-    max-width: 100%;
+
+  /* 头像、姓名、机构区域 */
+  .speakers img { display: block; margin: 0 auto; max-width: 100%; }
+  .speakers .face { margin-bottom: 10px; border-radius: 4px; }
+  .speakers .name { font-weight: 600; margin: 6px 0 10px; color: #1f2937; }
+
+  /* 在名字与机构 logo 之间画一条横线（整格宽度） */
+  .speakers .org {
+    border-top: 1px solid #e5e7eb;
+    margin-top: 8px;
+    padding-top: 10px;
   }
-  .speakers .face { margin-bottom: 8px; }
-  .speakers .name { font-weight: 600; margin: 6px 0 4px; }
-  .speakers .org  { margin-top: 4px; }
+  .speakers .org img { height: 40px; }
 </style>
 
 <table class="speakers">
@@ -83,17 +90,17 @@ redirect_from:
     <td>
       <img class="face" src="assets/Yann_Dubois.png" height="150" alt="Yann Dubois">
       <div class="name">Yann Dubois</div>
-      <img class="org" src="assets/openai.png" height="40" alt="OpenAI">
+      <div class="org"><img src="assets/openai.png" alt="OpenAI"></div>
     </td>
     <td>
       <img class="face" src="assets/Yangqing_Jia.png" height="150" alt="Yangqing Jia">
       <div class="name">Yangqing Jia</div>
-      <img class="org" src="assets/nvidia.png" height="40" alt="NVIDIA">
+      <div class="org"><img src="assets/nvidia.png" alt="NVIDIA"></div>
     </td>
     <td>
       <img class="face" src="assets/Jiantao_Jiao.png" height="150" alt="Jiantao Jiao">
       <div class="name">Jiantao Jiao</div>
-      <img class="org" src="assets/nvidia.png" height="40" alt="NVIDIA">
+      <div class="org"><img src="assets/nvidia.png" alt="NVIDIA"></div>
     </td>
   </tr>
 
@@ -101,17 +108,17 @@ redirect_from:
     <td>
       <img class="face" src="assets/Rao_Surapaneni.png" height="150" alt="Rao Surapaneni">
       <div class="name">Rao Surapaneni</div>
-      <img class="org" src="assets/Google.jpg" height="40" alt="Google">
+      <div class="org"><img src="assets/Google.jpg" alt="Google"></div>
     </td>
     <td>
       <img class="face" src="assets/Weizhu_Chen_new.png" height="150" alt="Weizhu Chen">
       <div class="name">Weizhu Chen</div>
-      <img class="org" src="assets/microsoft.png" height="40" alt="Microsoft">
+      <div class="org"><img src="assets/microsoft.png" alt="Microsoft"></div>
     </td>
     <td>
       <img class="face" src="assets/Noam_Brown.png" height="150" alt="Noam Brown">
       <div class="name">Noam Brown</div>
-      <img class="org" src="assets/openai.png" height="40" alt="OpenAI">
+      <div class="org"><img src="assets/openai.png" alt="OpenAI"></div>
     </td>
   </tr>
 
@@ -119,20 +126,21 @@ redirect_from:
     <td>
       <img class="face" src="assets/Oriol_Vinyals.png" height="150" alt="Oriol Vinyals">
       <div class="name">Oriol Vinyals</div>
-      <img class="org" src="assets/Google%20Deepmind.png" height="40" alt="Google DeepMind">
+      <div class="org"><img src="assets/Google%20Deepmind.png" alt="Google DeepMind"></div>
     </td>
     <td>
       <img class="face" src="assets/Pushmeet_Kohli.png" height="150" alt="Pushmeet Kohli">
       <div class="name">Pushmeet Kohli</div>
-      <img class="org" src="assets/Google%20Deepmind.png" height="40" alt="Google DeepMind">
+      <div class="org"><img src="assets/Google%20Deepmind.png" alt="Google DeepMind"></div>
     </td>
     <td>
       <img class="face" src="assets/Peter_Stone.png" height="150" alt="Peter Stone">
       <div class="name">Peter Stone</div>
-      <img class="org" src="assets/austin.png" height="40" alt="UT Austin">
+      <div class="org"><img src="assets/austin.png" alt="UT Austin"></div>
     </td>
   </tr>
 </table>
+
 
 ## Class Time and Location
 
