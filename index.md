@@ -54,83 +54,83 @@ redirect_from:
 
 ## Guest Speakers
 
-
 <style>
   h2 { text-align: center; }
 
-  .table {
+  .speakers {
     width: 100%;
     table-layout: fixed;
     border-collapse: collapse;
   }
-  .table td {
-    width: 25%;
-    text-align: center;    
-    vertical-align: middle; 
-    padding: 10px;
+  .speakers td {
+    width: 33.333%;
+    text-align: center;
+    vertical-align: top;
+    padding: 12px;
   }
-  .table img {
-    display: block;  
+  .speakers img { 
+    display: block; 
     margin: 0 auto; 
+    max-width: 100%;
   }
+  .speakers .face { margin-bottom: 8px; }
+  .speakers .name { font-weight: 600; margin: 6px 0 4px; }
+  .speakers .org  { margin-top: 4px; }
 </style>
 
-<table class="table">
+<table class="speakers">
   <tr>
-    <td><img src="assets/Yann_Dubois.png" height="150" alt="Yann Dubois"></td>
-    <td><img src="assets/Yangqing_Jia.png" height="150" alt="Yangqing Jia"></td>
-    <td><img src="assets/Jiantao_Jiao.png" height="150" alt="Jiantao Jiao"></td>
-    <td><img src="assets/Rao_Surapaneni.png" height="150" alt="Rao Surapaneni"></td>
-  </tr>
-  <tr>
-    <td>Yann Dubois</td>
-    <td>Yangqing Jia</td>
-    <td>Jiantao Jiao</td>
-    <td>Rao Surapaneni</td>
-  </tr>
-  <tr>
-    <td><img src="assets/openai.png" height="40" alt="OpenAI"></td>
-    <td><img src="assets/nvidia.png" height="40" alt="NVIDIA"></td>
-    <td><img src="assets/nvidia.png" height="40" alt="UC Berkeley"></td>
-    <td><img src="assets/Google.jpg" height="40" alt="Google"></td>
-  </tr>
-
-  <tr>
-    <td><img src="assets/Weizhu_Chen_new.png" height="150" alt="Weizhu Chen"></td>
-    <td><img src="assets/Noam_Brown.png" height="150" alt="Noam Brown"></td>
-    <td><img src="assets/Oriol_Vinyals.png" height="150" alt="Oriol Vinyals"></td>
-    <td><img src="assets/Pushmeet_Kohli.png" height="150" alt="Pushmeet Kohli"></td>
-  </tr>
-  <tr>
-    <td>Weizhu Chen</td>
-    <td>Noam Brown</td>
-    <td>Oriol Vinyals</td>
-    <td>Pushmeet Kohli</td>
-  </tr>
-  <tr>
-    <td><img src="assets/microsoft.png" height="40" alt="Microsoft"></td>
-    <td><img src="assets/openai.png" height="40" alt="OpenAI"></td>
-    <td><img src="assets/Google%20Deepmind.png" height="40" alt="Google DeepMind"></td>
-    <td><img src="assets/Google%20Deepmind.png" height="40" alt="Google DeepMind"></td>
+    <td>
+      <img class="face" src="assets/Yann_Dubois.png" height="150" alt="Yann Dubois">
+      <div class="name">Yann Dubois</div>
+      <img class="org" src="assets/openai.png" height="40" alt="OpenAI">
+    </td>
+    <td>
+      <img class="face" src="assets/Yangqing_Jia.png" height="150" alt="Yangqing Jia">
+      <div class="name">Yangqing Jia</div>
+      <img class="org" src="assets/nvidia.png" height="40" alt="NVIDIA">
+    </td>
+    <td>
+      <img class="face" src="assets/Jiantao_Jiao.png" height="150" alt="Jiantao Jiao">
+      <div class="name">Jiantao Jiao</div>
+      <img class="org" src="assets/nvidia.png" height="40" alt="NVIDIA">
+    </td>
   </tr>
 
   <tr>
-    <td><img src="assets/Peter_Stone.png" height="150" alt="Peter Stone"></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>
+      <img class="face" src="assets/Rao_Surapaneni.png" height="150" alt="Rao Surapaneni">
+      <div class="name">Rao Surapaneni</div>
+      <img class="org" src="assets/Google.jpg" height="40" alt="Google">
+    </td>
+    <td>
+      <img class="face" src="assets/Weizhu_Chen_new.png" height="150" alt="Weizhu Chen">
+      <div class="name">Weizhu Chen</div>
+      <img class="org" src="assets/microsoft.png" height="40" alt="Microsoft">
+    </td>
+    <td>
+      <img class="face" src="assets/Noam_Brown.png" height="150" alt="Noam Brown">
+      <div class="name">Noam Brown</div>
+      <img class="org" src="assets/openai.png" height="40" alt="OpenAI">
+    </td>
   </tr>
+
   <tr>
-    <td>Peter Stone</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="assets/austin.png" height="40" alt="UT Austin"></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>
+      <img class="face" src="assets/Oriol_Vinyals.png" height="150" alt="Oriol Vinyals">
+      <div class="name">Oriol Vinyals</div>
+      <img class="org" src="assets/Google%20Deepmind.png" height="40" alt="Google DeepMind">
+    </td>
+    <td>
+      <img class="face" src="assets/Pushmeet_Kohli.png" height="150" alt="Pushmeet Kohli">
+      <div class="name">Pushmeet Kohli</div>
+      <img class="org" src="assets/Google%20Deepmind.png" height="40" alt="Google DeepMind">
+    </td>
+    <td>
+      <img class="face" src="assets/Peter_Stone.png" height="150" alt="Peter Stone">
+      <div class="name">Peter Stone</div>
+      <img class="org" src="assets/austin.png" height="40" alt="UT Austin">
+    </td>
   </tr>
 </table>
 
