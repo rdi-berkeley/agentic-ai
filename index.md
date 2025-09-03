@@ -296,7 +296,7 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
 
 <p class="grading-note">Bonus is awarded by ranking (top 3 in each green environment).</p>
 
-## Lab and Project Timeline
+## Project Timeline
 
 <style>
   .timeline-table {
