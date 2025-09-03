@@ -154,16 +154,6 @@ Te be released soon!
 
 This is a variable-unit course. Detailed grading breakdown will be released soon!
 
-## Lab and Project Timeline
-
-|                         | Released | Due    |
-|-------------------------|----------|--------|
-| Project group formation | 9/8      | 9/21    |
-| Project proposal        |  9/21     | 10/5    |
-| Lab                     |  9/15     |  10/12   |
-| Project milestone       |  10/13     |  11/5   |
-| Project final presentation    |  11/23     | 12/16    |
-| Project final report    |  11/23     | 12/16    |
 
 ## Grading
 
