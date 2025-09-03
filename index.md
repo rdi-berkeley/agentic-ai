@@ -164,3 +164,208 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
 | Project milestone       |  10/13     |  11/5   |
 | Project final presentation    |  11/23     | 12/16    |
 | Project final report    |  11/23     | 12/16    |
+
+## Grading
+
+<style>
+  .grading-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+  .grading-table th,
+  .grading-table td {
+    padding: 10px 12px;
+    border-top: 1px solid #e5e7eb; /* row separator */
+  }
+  .grading-table thead th {
+    text-align: center;
+    font-weight: 600;
+    border-top: none;
+  }
+  /* left column text left-aligned; score columns centered */
+  .grading-table td:first-child { text-align: left; width: 55%; }
+  .grading-table td:nth-child(2),
+  .grading-table td:nth-child(3),
+  .grading-table td:nth-child(4) { text-align: center; width: 15%; white-space: nowrap; }
+
+  /* group / section / sub rows */
+  .grading-table .group td { font-weight: 600; background: #fafafa; color: #111827; }
+  .grading-table .section td { color: #6b7280; font-weight: 600; }
+  .grading-table .sub { font-style: italic; color: #374151; padding-left: 1rem; }
+  .grading-table .muted { color: #9ca3af; }
+
+  .grading-note { color: #6b7280; font-size: 0.95em; margin-top: 6px; }
+</style>
+
+<table class="grading-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>1 unit</th>
+      <th>2 units</th>
+      <th>3/4 units</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Participation</td>
+      <td>40%</td>
+      <td>16%</td>
+      <td>8%</td>
+    </tr>
+    <tr>
+      <td>Quizzes</td>
+      <td>20%</td>
+      <td>4%</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>Article</td>
+      <td>40%</td>
+      <td class="muted">—</td>
+      <td class="muted">—</td>
+    </tr>
+    <!-- Project -->
+    <tr class="group">
+      <td>Project</td>
+      <td class="muted">—</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <!-- Phase 1 -->
+    <tr class="section">
+      <td>Phase 1</td>
+      <td class="muted">—</td>
+      <td>Sum: 50%</td>
+      <td>Sum: 60%</td>
+    </tr>
+    <tr>
+      <td class="sub">Proposal</td>
+      <td class="muted">—</td>
+      <td>10%</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td class="sub">Early demo (2‑min video &amp; milestone report)</td>
+      <td class="muted">—</td>
+      <td>10%</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td class="sub">Implementation</td>
+      <td class="muted">—</td>
+      <td>20%</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td class="sub">Documentation</td>
+      <td class="muted">—</td>
+      <td>10%</td>
+      <td>10%</td>
+    </tr>
+    <!-- Phase 2 -->
+    <tr class="section">
+      <td>Phase 2</td>
+      <td class="muted">—</td>
+      <td>Sum: 30%</td>
+      <td>Sum: 30%</td>
+    </tr>
+    <tr>
+      <td class="sub">Competition agent proposal</td>
+      <td class="muted">—</td>
+      <td>5%</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td class="sub">Competition agent implementation</td>
+      <td class="muted">—</td>
+      <td>20%</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td class="sub">Competition agent report (1–2 pages)</td>
+      <td class="muted">—</td>
+      <td>5%</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td class="sub">Competition agent — bonus</td>
+      <td class="muted">—</td>
+      <td>0–10% bonus</td>
+      <td>0–10% bonus</td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="grading-note">Bonus is awarded by ranking (top 3 in each green environment).</p>
+
+## Lab and Project Timeline
+
+<style>
+  .timeline-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+  .timeline-table th,
+  .timeline-table td {
+    padding: 10px 12px;
+    border-top: 1px solid #e5e7eb; /* row separator */
+  }
+  .timeline-table thead th {
+    text-align: center;
+    font-weight: 600;
+    border-top: none;
+  }
+  /* left column text left-aligned; date columns centered */
+  .timeline-table td:first-child { text-align: left; width: 70%; }
+  .timeline-table td:nth-child(2),
+  .timeline-table td:nth-child(3) { text-align: center; width: 15%; white-space: nowrap; }
+
+  .timeline-note { color: #6b7280; font-size: 0.95em; margin-top: 6px; }
+</style>
+
+<table class="timeline-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Released</th>
+      <th>Due</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project group formation</td>
+      <td>9/15</td>
+      <td>9/22</td>
+    </tr>
+    <tr>
+      <td>Green agent proposal</td>
+      <td>9/15</td>
+      <td>10/1</td>
+    </tr>
+    <tr>
+      <td>Green agent demo submission &amp; short report</td>
+      <td>9/20</td>
+      <td>10/15</td>
+    </tr>
+    <tr>
+      <td>Green agent submission &mdash; implementation, documentation &amp; recording</td>
+      <td>10/20</td>
+      <td>11/3</td>
+    </tr>
+    <tr>
+      <td>Competition agent proposal</td>
+      <td>11/10</td>
+      <td>11/17</td>
+    </tr>
+    <tr>
+      <td>Competition agent final submission &mdash; implementation &amp; report</td>
+      <td>11/17</td>
+      <td>12/12</td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="timeline-note">Top 3 green agents will be selected and announced by 11/9.</p>
