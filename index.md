@@ -60,23 +60,21 @@ redirect_from:
   .speakers {
     width: 100%;
     table-layout: fixed;
-    border-collapse: collapse;       /* 让网格线更利落 */
+    border-collapse: collapse;
   }
   .speakers td {
     width: 33.333%;
     text-align: center;
     vertical-align: top;
     padding: 14px 16px;
-    border: 1px solid #e5e7eb;      /* 每格外边框（与示例一致的浅灰） */
+    border: 1px solid #e5e7eb;
     background: #fff;
   }
 
-  /* 头像、姓名、机构区域 */
   .speakers img { display: block; margin: 0 auto; max-width: 100%; }
   .speakers .face { margin-bottom: 10px; border-radius: 4px; }
   .speakers .name { font-weight: 600; margin: 6px 0 10px; color: #1f2937; }
 
-  /* 在名字与机构 logo 之间画一条横线（整格宽度） */
   .speakers .org {
     border-top: 1px solid #e5e7eb;
     margin-top: 8px;
