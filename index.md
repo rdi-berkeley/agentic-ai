@@ -81,8 +81,8 @@ redirect_from:
   .speaker-card .face {
     display: block;
     width: 100%;
-    max-width: 220px; 
-    height: auto; 
+    max-width: 220px;
+    height: auto;
     border-radius: 6px;
   }
 
@@ -91,9 +91,22 @@ redirect_from:
     color: #1f2937;
     text-align: center;
     line-height: 1.25;
-    margin: 2px 0 8px;
-    min-height: 2.4em; 
+    margin: 8px 0 2px;
+    min-height: 2.4em;
   }
+
+  
+  .speaker-card .role {
+    color: #4b5563; 
+    text-align: center;
+    line-height: 1.35;
+    margin: 0 0 8px;
+    padding: 0 6px;
+    font-weight: 500;
+    min-height: 2.6em;
+    word-break: break-word;
+  }
+  .speaker-card .role:empty { display: none; }
 
   .speaker-card .org {
     width: 100%;
@@ -103,7 +116,7 @@ redirect_from:
     justify-content: center;
   }
   .speaker-card .org img {
-    max-height: 36px; 
+    max-height: 36px;
     height: auto;
     width: auto;
     max-width: 85%;
@@ -113,6 +126,8 @@ redirect_from:
     .speakers td { padding: 12px 8px; }
     .speaker-card .face { max-width: 160px; }
     .speaker-card .org img { max-height: 30px; }
+    .speaker-card .name { min-height: 2.2em; }
+    .speaker-card .role { min-height: 2.2em; }
   }
 </style>
 
@@ -122,6 +137,7 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Yann_Dubois.png" alt="Yann Dubois">
         <div class="name">Yann Dubois</div>
+        <div class="role">Member of Technical Staff</div>
         <div class="org"><img src="assets/openai.png" alt="OpenAI"></div>
       </div>
     </td>
@@ -129,6 +145,7 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Yangqing_Jia.png" alt="Yangqing Jia">
         <div class="name">Yangqing Jia</div>
+        <div class="role">VP, Al System Software</div>
         <div class="org"><img src="assets/nvidia.png" alt="NVIDIA"></div>
       </div>
     </td>
@@ -136,6 +153,7 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Jiantao_Jiao.png" alt="Jiantao Jiao">
         <div class="name">Jiantao Jiao</div>
+        <div class="role">Director of Research & Distinguished Scientist</div>
         <div class="org"><img src="assets/nvidia.png" alt="NVIDIA"></div>
       </div>
     </td>
@@ -146,6 +164,7 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Rao_Surapaneni.png" alt="Rao Surapaneni">
         <div class="name">Rao Surapaneni</div>
+        <div class="role">VP/GM - Business Application Platform</div>
         <div class="org"><img src="assets/Google.jpg" alt="Google"></div>
       </div>
     </td>
@@ -153,6 +172,7 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Weizhu_Chen_new.png" alt="Weizhu Chen">
         <div class="name">Weizhu Chen</div>
+        <div class="role">Technical Fellow & CVP</div>
         <div class="org"><img src="assets/microsoft.png" alt="Microsoft"></div>
       </div>
     </td>
@@ -160,6 +180,7 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Noam_Brown.png" alt="Noam Brown">
         <div class="name">Noam Brown</div>
+        <div class="role"> Research Scientist</div>
         <div class="org"><img src="assets/openai.png" alt="OpenAI"></div>
       </div>
     </td>
@@ -170,6 +191,7 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Oriol_Vinyals.png" alt="Oriol Vinyals">
         <div class="name">Oriol Vinyals</div>
+        <div class="role">VP of Research</div>
         <div class="org"><img src="assets/Google%20Deepmind.png" alt="Google DeepMind"></div>
       </div>
     </td>
@@ -177,6 +199,7 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Pushmeet_Kohli.png" alt="Pushmeet Kohli">
         <div class="name">Pushmeet Kohli</div>
+        <div class="role">VP, Science and Strategic Initiatives</div>
         <div class="org"><img src="assets/Google%20Deepmind.png" alt="Google DeepMind"></div>
       </div>
     </td>
@@ -184,12 +207,12 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Peter_Stone.png" alt="Peter Stone">
         <div class="name">Peter Stone</div>
+        <div class="role">Chief Scientist, Sony Al</div>
         <div class="org"><img src="assets/austin.png" alt="UT Austin"></div>
       </div>
     </td>
   </tr>
 </table>
-
 
 ## Class Time and Location
 
