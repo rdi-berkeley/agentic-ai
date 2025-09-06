@@ -12,6 +12,8 @@ redirect_from:
 - **We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/MSLYVZJmaDaaE2B48">petition form</a> if you are on the waitlist or can't get added to the waitlist. We expect to have accepted students enrolled 1-2 weeks into the Fall semester.**
 - ***<span style="color:red">Do not email course staff or TAs. Please use [Edstem](https://edstem.org/us/join/MWjY99) for any questions. For private matters, post a private question on Edstem and make sure it is visable to all teaching staff.</span>***
 
+<div style="height:56px"></div>
+
 ## Course Staff
 
 <table class="instructors">
@@ -51,6 +53,8 @@ redirect_from:
     margin: 0 auto; 
   }
 </style>
+
+<div style="height:56px"></div>
 
 ## Guest Speakers
 
@@ -207,24 +211,153 @@ redirect_from:
       <div class="speaker-card">
         <img class="face" src="assets/Peter_Stone.png" alt="Peter Stone">
         <div class="name">Peter Stone</div>
-        <div class="role">Chief Scientist, Sony Al</div>
-        <div class="org"><img src="assets/austin.png" alt="UT Austin"></div>
+        <div class="role">Chief Scientist at Sony Al, Professor at UT Austin</div>
+        <div class="org"><img src="assets/sony_ai.png" alt="Sony AI"></div>
       </div>
     </td>
   </tr>
 </table>
 
+<div style="height:56px"></div>
+
 ## Class Time and Location
 
 Lecture: 3-5pm PT Monday at Valley Life Sciences 2050 
+
+<div style="height:56px"></div>
 
 ## Course Description
 
 Agentic AI is the new frontier and poised to transform the future of our daily life with the support of intelligent task automation and personalization. In this course, we will first discuss fundamental concepts that are essential for Agentic AI, including the foundation of LLMs, reasonsing, planning, agentic frameworks and infrastructure. We will also cover representative agent applications, including code generation, robotics, web automation, and scientific discovery. Meanwhile, we will discuss limitations and potential risks of current LLM agents, and share insights into directions for further improvement.
 
+<div style="height:56px"></div>
+
 ## Syllabus
 
-Te be released soon!
+<style>
+  .schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+  .schedule-table th,
+  .schedule-table td {
+    padding: 10px 12px;
+    border-top: 1px solid #e5e7eb; /* row separator */
+  }
+  .schedule-table thead th {
+    text-align: center;
+    font-weight: 600;
+    border-top: none;
+  }
+
+  .schedule-table td:nth-child(1) { width: 14%; text-align: center; white-space: nowrap; font-weight: 600; color: #374151; }
+  .schedule-table td:nth-child(2) { width: 36%; text-align: left; }
+  .schedule-table td:nth-child(3) { width: 36%; text-align: left; }
+  .schedule-table td:nth-child(4) { width: 14%; text-align: center; white-space: nowrap; color: #6b7280; }
+
+
+  .schedule-table tbody tr:nth-child(even) { background: #fafafa; }
+</style>
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Speaker</th>
+      <th>Readings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sep 8</td>
+      <td>Introduction</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Sep 15</td>
+      <td>LLM Agents Overview</td>
+      <td>Yann Dubois, OpenAI</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Sep 22</td>
+      <td>Agent Stack &amp; Infrastructure</td>
+      <td>Yangqing Jia, NVIDIA</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Sep 29</td>
+      <td>LLM with Tool Use</td>
+      <td>Jiantao Jiao, NVIDIA</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Oct 6</td>
+      <td>TBD</td>
+      <td>Rao Surapaneni, Google</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Oct 13</td>
+      <td>TBD</td>
+      <td>Weizhu Chen, Microsoft</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Oct 20</td>
+      <td>TBD</td>
+      <td>Noam Brown, OpenAI</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Oct 27</td>
+      <td>TBD</td>
+      <td>Denis Yarats</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Nov 3</td>
+      <td>TBD</td>
+      <td>TBD</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Nov 10</td>
+      <td>TBD</td>
+      <td>Oriol Vinyals, Google DeepMind</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Nov 17</td>
+      <td>TBD</td>
+      <td>Pushmeet Kohli, Google DeepMind</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Nov 24</td>
+      <td>TBD</td>
+      <td>Peter Stone, UT Austin</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Dec 1</td>
+      <td>AI Agent Safety</td>
+      <td>Dawn Song, UC Berkeley</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Dec 8</td>
+      <td>No lecture (RRR week)</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="height:56px"></div>
 
 ## Enrollment and Grading
 
@@ -234,6 +367,8 @@ Te be released soon!
 
 This is a variable-unit course. Detailed grading breakdown will be released soon!
 
+
+<div style="height:56px"></div>
 
 ## Grading
 
@@ -369,6 +504,8 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
 </table>
 
 <p class="grading-note">Bonus is awarded by ranking (top 3 in each green environment).</p>
+
+<div style="height:56px"></div>
 
 ## Project Timeline
 
