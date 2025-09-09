@@ -381,20 +381,18 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
   .grading-table th,
   .grading-table td {
     padding: 10px 12px;
-    border-top: 1px solid #e5e7eb; /* row separator */
+    border-top: 1px solid #e5e7eb;
   }
   .grading-table thead th {
     text-align: center;
     font-weight: 600;
     border-top: none;
   }
-  /* left column text left-aligned; score columns centered */
   .grading-table td:first-child { text-align: left; width: 55%; }
   .grading-table td:nth-child(2),
   .grading-table td:nth-child(3),
   .grading-table td:nth-child(4) { text-align: center; width: 15%; white-space: nowrap; }
 
-  /* group / section / sub rows */
   .grading-table .group td { font-weight: 600; background: #fafafa; color: #111827; }
   .grading-table .section td { color: #6b7280; font-weight: 600; }
   .grading-table .sub { font-style: italic; color: #374151; padding-left: 1rem; }
@@ -416,14 +414,14 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr>
       <td>Participation</td>
       <td>40%</td>
-      <td>16%</td>
-      <td>8%</td>
+      <td>30%</td>
+      <td>20%</td>
     </tr>
     <tr>
       <td>Quizzes</td>
       <td>20%</td>
-      <td>4%</td>
-      <td>2%</td>
+      <td>10%</td>
+      <td>10%</td>
     </tr>
     <tr>
       <td>Article</td>
@@ -435,33 +433,33 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr class="group">
       <td>Project</td>
       <td class="muted">—</td>
-      <td></td>
-      <td></td>
+      <td>Sum: 60%</td>
+      <td>Sum: 70%</td>
     </tr>
     <!-- Phase 1 -->
     <tr class="section">
       <td>Phase 1</td>
       <td class="muted">—</td>
-      <td>Sum: 50%</td>
-      <td>Sum: 60%</td>
+      <td>Sum: 40%</td>
+      <td>Sum: 40%</td>
     </tr>
     <tr>
       <td class="sub">Proposal</td>
       <td class="muted">—</td>
-      <td>10%</td>
-      <td>10%</td>
+      <td>5%</td>
+      <td>5%</td>
     </tr>
     <tr>
-      <td class="sub">Early demo (2‑min video &amp; milestone report)</td>
+      <td class="sub">Early demo (2-min video &amp; milestone report)</td>
       <td class="muted">—</td>
       <td>10%</td>
-      <td>20%</td>
+      <td>10%</td>
     </tr>
     <tr>
       <td class="sub">Implementation</td>
       <td class="muted">—</td>
-      <td>20%</td>
-      <td>20%</td>
+      <td>15%</td>
+      <td>15%</td>
     </tr>
     <tr>
       <td class="sub">Documentation</td>
@@ -473,7 +471,7 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr class="section">
       <td>Phase 2</td>
       <td class="muted">—</td>
-      <td>Sum: 30%</td>
+      <td>Sum: 20%</td>
       <td>Sum: 30%</td>
     </tr>
     <tr>
@@ -485,7 +483,7 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr>
       <td class="sub">Competition agent implementation</td>
       <td class="muted">—</td>
-      <td>20%</td>
+      <td>10%</td>
       <td>20%</td>
     </tr>
     <tr>
@@ -518,18 +516,17 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
   .timeline-table th,
   .timeline-table td {
     padding: 10px 12px;
-    border-top: 1px solid #e5e7eb; /* row separator */
+    border-top: 1px solid #e5e7eb;
   }
   .timeline-table thead th {
     text-align: center;
     font-weight: 600;
     border-top: none;
   }
-  /* left column text left-aligned; date columns centered */
   .timeline-table td:first-child { text-align: left; width: 70%; }
   .timeline-table td:nth-child(2),
   .timeline-table td:nth-child(3) { text-align: center; width: 15%; white-space: nowrap; }
-
+  .timeline-table .section td { color: #6b7280; font-weight: 600; }
   .timeline-note { color: #6b7280; font-size: 0.95em; margin-top: 6px; }
 </style>
 
@@ -547,6 +544,12 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td>9/15</td>
       <td>9/22</td>
     </tr>
+    <!-- NEW: Phase 1 row (row 3) -->
+    <tr class="section">
+      <td>Phase 1</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
     <tr>
       <td>Green agent proposal</td>
       <td>9/15</td>
@@ -561,6 +564,12 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td>Green agent submission &mdash; implementation, documentation &amp; recording</td>
       <td>10/20</td>
       <td>11/3</td>
+    </tr>
+    <!-- NEW: Phase 2 row (row 7) -->
+    <tr class="section">
+      <td>Phase 2 (top 3 green agents selected &amp; announced by 11/9)</td>
+      <td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>Competition agent proposal</td>
