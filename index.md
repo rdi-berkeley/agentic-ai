@@ -274,7 +274,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
       <td>Sep 8</td>
       <td>
         Introduction
-        <div><a href="slides/introduction_25.pdf">slides</a></div>
+        <div><a href="{{ site.baseurl }}/slides/introduction_25.pdf">slides</a></div>
       </td>
       <td>—</td>
       <td>—</td>
