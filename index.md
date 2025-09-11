@@ -256,7 +256,6 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
   .schedule-table td:nth-child(3) { width: 36%; text-align: left; }
   .schedule-table td:nth-child(4) { width: 14%; text-align: center; white-space: nowrap; color: #6b7280; }
 
-
   .schedule-table tbody tr:nth-child(even) { background: #fafafa; }
 </style>
 
@@ -300,7 +299,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
     <tr>
       <td>Oct 6</td>
       <td>TBD</td>
-      <td>Rao Surapaneni, Google</td>
+      <td>Armand Joulin, Google DeepMind</td>
       <td>—</td>
     </tr>
     <tr>
@@ -318,13 +317,13 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
     <tr>
       <td>Oct 27</td>
       <td>TBD</td>
-      <td>Denis Yarats</td>
+      <td>TBD</td>
       <td>—</td>
     </tr>
     <tr>
       <td>Nov 3</td>
       <td>TBD</td>
-      <td>TBD</td>
+      <td>Rao Surapaneni, Google</td>
       <td>—</td>
     </tr>
     <tr>
@@ -347,7 +346,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
     </tr>
     <tr>
       <td>Dec 1</td>
-      <td>AI Agent Safety</td>
+      <td>Agentic AI Safety &amp; Security</td>
       <td>Dawn Song, UC Berkeley</td>
       <td>—</td>
     </tr>
@@ -361,6 +360,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </table>
 
 <div style="height:56px"></div>
+
 
 ## Enrollment and Grading
 
