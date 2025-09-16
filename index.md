@@ -281,6 +281,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
     <tr>
       <td>Sep 15</td>
       <td>LLM Agents Overview</td>
+      <div><a href="{{ site.baseurl }}/slides/lecture1.pdf">slides</a></div>
       <td>Yann Dubois, OpenAI</td>
       <td>—</td>
     </tr>
