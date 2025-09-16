@@ -285,7 +285,10 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
         <div><a href="{{ site.baseurl }}/slides/lecture1.pdf">slides</a></div>
       </td>
       <td>Yann Dubois, OpenAI</td>
-      <td>—</td>
+      <td>
+        <div><a href="{{ site.baseurl }}/slides/d11.pdf">reading1</a></div>
+        <div><a href="{{ site.baseurl }}/slides/d22.pdf">reading2</a></div>
+      </td>
     </tr>
     <tr>
       <td>Sep 22</td>
