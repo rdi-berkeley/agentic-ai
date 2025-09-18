@@ -37,6 +37,10 @@ redirect_from:
   </tbody>
 </table>
 
+<h3 class="teaching-staff">
+  Teaching Staff: Xiuyu Li, Baifeng Shi, Chenyang Wang, Arhaan Aggarwal
+</h3>
+
 <style>
   .instructors {
     width: 100%;
@@ -52,9 +56,18 @@ redirect_from:
     display: block; 
     margin: 0 auto; 
   }
+
+  .teaching-staff {
+    margin-top: 12px;
+    font-size: 16px; 
+    font-weight: 500;
+    color: #64748b;
+    line-height: 1.3;
+  }
 </style>
 
 <div style="height:56px"></div>
+
 
 ## Guest Speakers
 
@@ -408,6 +421,17 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
   .grading-table .muted { color: #9ca3af; }
 
   .grading-note { color: #6b7280; font-size: 0.95em; margin-top: 6px; }
+
+  /* New: announcement style */
+  .grading-announcement {
+    margin-top: 12px;
+    padding: 12px 14px;
+    background: #f9fafb;
+    border-left: 4px solid #64748b;
+    color: #374151;
+    font-size: 1.05em;
+    line-height: 1.5;
+  }
 </style>
 
 <table class="grading-table">
@@ -512,7 +536,12 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
 
 <p class="grading-note">Bonus is awarded by ranking (top 3 in each green environment).</p>
 
+<div class="grading-announcement">
+  <strong>Announcement for 1-Unit Students:</strong> You may choose to write an article or complete <em>Phase&nbsp;1</em> of the Agent Track. Either option is worth <strong>40%</strong> of your grade. If you choose the Agent Track, coding requirements are minimal—building a simple agent (e.g., via prompt engineering) is sufficient.
+</div>
+
 <div style="height:56px"></div>
+
 
 ## Project Timeline
 
