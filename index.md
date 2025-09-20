@@ -248,15 +248,8 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 ## Syllabus
 
 <style>
-  .syllabus-wrapper {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-  }
-
   .syllabus-table {
-    width: 90%;
-    max-width: 1100px;
+    width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
     font-size: 0.95rem;
@@ -353,7 +346,6 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
   }
 </style>
 
-<div class="syllabus-wrapper">
 <table class="syllabus-table">
   <thead>
     <tr>
@@ -494,7 +486,6 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
     </tr>
   </tbody>
 </table>
-</div>
 
 <div style="height:56px"></div>
 
