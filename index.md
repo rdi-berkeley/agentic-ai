@@ -249,7 +249,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 
 <div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 5px; padding: 15px; margin-bottom: 10px; margin-top: 20px;">
   <strong style="color: #856404; font-size: 16px;">📹 Lecture Recordings:</strong>
-  <a href="https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ" style="color: #dc3545; font-weight: bold;">https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ</a>
+  <a href="https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ">https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ</a>
 </div>
 
 <div style="height:15px"></div>
@@ -277,7 +277,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
       <td>Sep 15</td>
       <td>
         LLM Agents Overview
-        <div><a href="{{ site.baseurl }}/slides/lecture1.pdf">slides</a></div>
+        <div><a href="{{ site.baseurl }}/slides/lecture1.pdf">Slides</a> <a href="https://www.youtube.com/watch?v=btq1TqMFrxE&list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ&index=1&t=1s">Recording</a></div>
       </td>
       <td>Yann Dubois, OpenAI</td>
       <td>
