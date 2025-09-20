@@ -247,30 +247,12 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 
 ## Syllabus
 
-<style>
-  .schedule-table {
-    width: 100%;
-    border-collapse: collapse;
-    table-layout: fixed;
-  }
-  .schedule-table th,
-  .schedule-table td {
-    padding: 10px 12px;
-    border-top: 1px solid #e5e7eb; /* row separator */
-  }
-  .schedule-table thead th {
-    text-align: center;
-    font-weight: 600;
-    border-top: none;
-  }
+<div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 5px; padding: 15px; margin-bottom: 10px; margin-top: 20px;">
+  <strong style="color: #856404; font-size: 16px;">📹 Lecture Recordings:</strong>
+  <a href="https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ" style="color: #dc3545; font-weight: bold;">https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ</a>
+</div>
 
-  .schedule-table td:nth-child(1) { width: 14%; text-align: center; white-space: nowrap; font-weight: 600; color: #374151; }
-  .schedule-table td:nth-child(2) { width: 36%; text-align: left; }
-  .schedule-table td:nth-child(3) { width: 36%; text-align: left; }
-  .schedule-table td:nth-child(4) { width: 14%; text-align: center; white-space: nowrap; color: #6b7280; }
-
-  .schedule-table tbody tr:nth-child(even) { background: #fafafa; }
-</style>
+<div style="height:15px"></div>
 
 <table class="schedule-table">
   <thead>
