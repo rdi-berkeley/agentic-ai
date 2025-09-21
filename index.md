@@ -270,57 +270,57 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 <tr>
 <td>Sep 22</td>
 <td><strong>Agent Stack & Infrastructure</strong> <br> Yangqing Jia, NVIDIA</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Sep 29</td>
 <td><strong>LLM with Tool Use</strong> <br> Jiantao Jiao, NVIDIA</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Oct 6</td>
 <td><em>TBA</em></td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Oct 13</td>
 <td>Weizhu Chen, Microsoft</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Oct 20</td>
 <td>Noam Brown, OpenAI</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Oct 27</td>
 <td>Armand Joulin, Google DeepMind</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Nov 3</td>
 <td>Rao Surapaneni, Google</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Nov 10</td>
 <td>Oriol Vinyals, Google DeepMind</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Nov 17</td>
 <td><em>TBA</em></td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Nov 24</td>
 <td>Peter Stone, UT Austin / Sony AI</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Dec 1</td>
 <td><strong>Agentic AI Safety & Security</strong> <br> Dawn Song, UC Berkeley</td>
-<td>—</td>
+<td></td>
 </tr>
 <tr>
 <td>Dec 8</td>
@@ -538,8 +538,8 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <!-- NEW: Phase 1 row (row 3) -->
     <tr class="section">
       <td>Phase 1</td>
-      <td>—</td>
-      <td>—</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Green agent proposal</td>
@@ -559,8 +559,8 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <!-- NEW: Phase 2 row (row 7) -->
     <tr class="section">
       <td>Phase 2 (top 3 green agents selected &amp; announced by 11/9)</td>
-      <td>—</td>
-      <td>—</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Competition agent proposal</td>
