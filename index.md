@@ -269,7 +269,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Sep 22</td>
-<td><strong>Agent Stack & Infrastructure</strong> <br> Yangqing Jia, NVIDIA</td>
+<td><strong>Evolution of system designs from an AI engineer perspective</strong> <br> Yangqing Jia, NVIDIA</td>
 <td></td>
 </tr>
 <tr>
