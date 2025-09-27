@@ -206,7 +206,7 @@ redirect_from:
   <tr>
     <td>
       <div class="speaker-card">
-        <img class="face" src="assets/james_zou.jpg" alt="James Zou">
+        <img class="face" src="assets/james_zou.png" alt="James Zou">
         <div class="name">James Zou</div>
         <div class="role">Professor</div>
         <div class="org"><img src="assets/stanford.png" alt="Stanford"></div>
