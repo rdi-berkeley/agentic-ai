@@ -543,13 +543,13 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     </tr>
     <tr>
       <td>Green agent proposal</td>
-      <td>9/15</td>
-      <td>10/1</td>
+      <td>9/27</td>
+      <td>10/8</td>
     </tr>
     <tr>
       <td>Green agent demo submission &amp; short report</td>
-      <td>9/20</td>
-      <td>10/15</td>
+      <td>10/7</td>
+      <td>10/20</td>
     </tr>
     <tr>
       <td>Green agent submission &mdash; implementation, documentation &amp; recording</td>
