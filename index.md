@@ -179,14 +179,6 @@ redirect_from:
   <tr>
     <td>
       <div class="speaker-card">
-        <img class="face" src="assets/Sida Wang.jpg" alt="Sida Wang">
-        <div class="name">Sida Wang</div>
-        <div class="role">Research Scientist</div>
-        <div class="org"><img src="assets/meta.png" alt="Meta"></div>
-      </div>
-    </td>
-    <td>
-      <div class="speaker-card">
         <img class="face" src="assets/Weizhu_Chen_new.png" alt="Weizhu Chen">
         <div class="name">Weizhu Chen</div>
         <div class="role">Technical Fellow & CVP</div>
@@ -199,6 +191,14 @@ redirect_from:
         <div class="name">Noam Brown</div>
         <div class="role"> Research Scientist</div>
         <div class="org"><img src="assets/openai.png" alt="OpenAI"></div>
+      </div>
+    </td>
+    <td>
+      <div class="speaker-card">
+        <img class="face" src="assets/Sida Wang.jpg" alt="Sida Wang">
+        <div class="name">Sida Wang</div>
+        <div class="role">Research Scientist</div>
+        <div class="org"><img src="assets/meta.png" alt="Meta"></div>
       </div>
     </td>
   </tr>
