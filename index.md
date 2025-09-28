@@ -269,7 +269,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Sep 22</td>
-<td><strong>Evolution of system designs from an AI engineer perspective</strong> <br> Yangqing Jia, NVIDIA <br> <a href="{{ site.baseurl }}/slides/Yangqing.pdf">Slides</a></td>
+<td><strong>Evolution of system designs from an AI engineer perspective</strong> <br> Yangqing Jia, NVIDIA <br> <a href="{{ site.baseurl }}/slides/Yangqing.pdf">Slides</a> <a href="https://www.youtube.com/watch?v=xqRAS6rAouo&list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ&index=2">Recording</a></td>
 <td></td>
 </tr>
 <tr>
