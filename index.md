@@ -214,9 +214,9 @@ redirect_from:
     </td>
     <td>
       <div class="speaker-card">
-        <img class="face" src="assets/Pushmeet_Kohli.png" alt="Pushmeet Kohli">
-        <div class="name">Pushmeet Kohli</div>
-        <div class="role">VP, Science and Strategic Initiatives</div>
+        <img class="face" src="assets/Oriol_Vinyals.png" alt="Oriol Vinyals">
+        <div class="name">Oriol Vinyals</div>
+        <div class="role">VP, Research</div>
         <div class="org"><img src="assets/Google%20Deepmind.png" alt="Google DeepMind"></div>
       </div>
     </td>
@@ -275,7 +275,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 <tr>
 <td>Sep 29</td>
 <td><strong>Post-Training Verifiable Agents</strong> <br> Jiantao Jiao, NVIDIA</td>
-<td>- <a href="https://openai.com/index/introducing-swe-bench-verified/">Introducing SWE-bench Verified</a> <br> - <a href="https://openai.com/index/browsecomp/">BrowseComp: a benchmark for browsing agents</a> <br> - <a href="https://www.primeintellect.ai/blog/environments">Environments Hub</a></td>
+<td>- <a href="https://openai.com/index/introducing-swe-bench-verified/">Introducing SWE-bench Verified</a> <br> - <a href="https://openai.com/index/browsecomp/">BrowseComp: a benchmark for browsing agents</a></td>
 </tr>
 <tr>
 <td>Oct 6</td>
