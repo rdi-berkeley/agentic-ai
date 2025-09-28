@@ -269,7 +269,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Sep 22</td>
-<td><strong>Evolution of system designs from an AI engineer perspective</strong> <br> Yangqing Jia, NVIDIA <br> <a href="{{ site.baseurl }}/slides/Yangqing.pdf">Slides</a></td>
+<td><strong>Evolution of system designs from an AI engineer perspective</strong> <br> Yangqing Jia, NVIDIA <br> <a href="{{ site.baseurl }}/slides/Yangqing.pdf">Slides</a> <a href="https://www.youtube.com/watch?v=xqRAS6rAouo&list=PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ&index=2">Recording</a></td>
 <td></td>
 </tr>
 <tr>
@@ -543,13 +543,13 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     </tr>
     <tr>
       <td>Green agent proposal</td>
-      <td>9/15</td>
-      <td>10/1</td>
+      <td>9/27</td>
+      <td>10/8</td>
     </tr>
     <tr>
       <td>Green agent demo submission &amp; short report</td>
-      <td>9/20</td>
-      <td>10/15</td>
+      <td>10/7</td>
+      <td>10/20</td>
     </tr>
     <tr>
       <td>Green agent submission &mdash; implementation, documentation &amp; recording</td>
