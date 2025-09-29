@@ -481,8 +481,8 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr>
       <td class="sub">Competition agent — bonus</td>
       <td class="muted">—</td>
-      <td>0–10% bonus</td>
-      <td>0–10% bonus</td>
+      <td>0–15% bonus</td>
+      <td>0–15% bonus</td>
     </tr>
   </tbody>
 </table>
