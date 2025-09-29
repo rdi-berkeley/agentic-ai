@@ -274,7 +274,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Sep 29</td>
-<td><strong>Post-Training Verifiable Agents</strong> <br> Jiantao Jiao, NVIDIA</td>
+<td><strong>Post-Training Verifiable Agents</strong> <br> Jiantao Jiao, NVIDIA <br> <a href="{{ site.baseurl }}/slides/AgenticAI_Jiantao Jiao.pdf">Slides</a></td>
 <td>- <a href="https://openai.com/index/introducing-swe-bench-verified/">Introducing SWE-bench Verified</a> <br> - <a href="https://openai.com/index/browsecomp/">BrowseComp: a benchmark for browsing agents</a></td>
 </tr>
 <tr>
