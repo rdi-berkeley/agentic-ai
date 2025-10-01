@@ -280,7 +280,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 <tr>
 <td>Oct 6</td>
 <td><strong>Agent Evaluation & Project Overview</strong></td>
-<td></td>
+<td>- <a href="https://arxiv.org/pdf/2503.16416">Survey on Evaluation of LLM-based Agents</a></td>
 </tr>
 <tr>
 <td>Oct 13</td>
