@@ -97,10 +97,11 @@ redirect_from:
 
   .speaker-card .face {
     display: block;
-    width: 100%;
-    max-width: 220px;
-    height: auto;
-    border-radius: 6px;
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 0;
   }
 
   .speaker-card .name {
@@ -141,7 +142,7 @@ redirect_from:
 
   @media (max-width: 480px) {
     .speakers td { padding: 12px 8px; }
-    .speaker-card .face { max-width: 160px; }
+    .speaker-card .face { width: 160px; height: 160px; }
     .speaker-card .org img { max-height: 30px; }
     .speaker-card .name { min-height: 2.2em; }
     .speaker-card .role { min-height: 2.2em; }
@@ -214,12 +215,23 @@ redirect_from:
     </td>
     <td>
       <div class="speaker-card">
+        <img class="face" src="assets/Clay Bavor.png" alt="Clay Bavor">
+        <div class="name">Clay Bavor</div>
+        <div class="role">Co-Founder</div>
+        <div class="org"><img src="assets/sierra.png" alt="Sierra"></div>
+      </div>
+    </td>
+    <td>
+      <div class="speaker-card">
         <img class="face" src="assets/Oriol_Vinyals.png" alt="Oriol Vinyals">
         <div class="name">Oriol Vinyals</div>
         <div class="role">VP, Research</div>
         <div class="org"><img src="assets/Google%20Deepmind.png" alt="Google DeepMind"></div>
       </div>
     </td>
+  </tr>
+
+  <tr>
     <td>
       <div class="speaker-card">
         <img class="face" src="assets/Peter_Stone.png" alt="Peter Stone">
@@ -228,6 +240,8 @@ redirect_from:
         <div class="org"><img src="assets/sony_ai.png" alt="Sony AI"></div>
       </div>
     </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -304,7 +318,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Nov 10</td>
-<td><em>TBD</em></td>
+<td>Clay Bavor, Sierra</td>
 <td></td>
 </tr>
 <tr>
