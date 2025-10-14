@@ -298,7 +298,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Oct 13</td>
-<td><strong>Some Challenges and Lessons from Training Agentic Models</strong> <br> Weizhu Chen, Microsoft</td>
+<td><strong>Some Challenges and Lessons from Training Agentic Models</strong> <br> Weizhu Chen, Microsoft <br> [<a href="{{ site.baseurl }}/slides/weizhu.pdf">Slides</a>]</td>
 <td></td>
 </tr>
 <tr>
