@@ -298,12 +298,12 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Oct 13</td>
-<td><strong>Some Challenges and Lessons from Training Agentic Models</strong> <br> Weizhu Chen, Microsoft <br> [<a href="{{ site.baseurl }}/slides/weizhu.pdf">Slides</a>]</td>
+<td><strong>Some Challenges and Lessons from Training Agentic Models</strong> <br> Weizhu Chen, Microsoft <br> [<a href="{{ site.baseurl }}/slides/weizhu.pdf">Slides</a>] [<a href="https://www.youtube.com/watch?v=xNxrBHZPDvM">Recording</a>]</td>
 <td></td>
 </tr>
 <tr>
 <td>Oct 20</td>
-<td>Noam Brown, OpenAI</td>
+<td><strong>Multi-Agent AI</strong> <br> Noam Brown, OpenAI</td>
 <td></td>
 </tr>
 <tr>
