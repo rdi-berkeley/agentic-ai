@@ -6,6 +6,13 @@ redirect_from:
  - /
 ---
 
+<div style="background-color: #e8f5e9; border: 3px solid #4caf50; padding: 30px 40px; margin-bottom: 30px; border-radius: 8px;">
+  <h3 style="color: #4caf50; margin-top: 0; font-size: 2em;">Announcement:</h3>
+  <p style="font-size: 1.2em; line-height: 1.6; color: #2c3e50; margin-bottom: 0;">
+    Learn more and sign up for the AgentX - AgentBeats Competition <a href="https://agentbeats.org/" style="color: #4caf50; font-weight: bold;">here</a>.
+  </p>
+</div>
+
 ## Prospective Students
 
 - **Students interested in the course should first try enrolling in the course in CalCentral. Please join the waitlist if the class is full. The class number is 15131 for CS194-196 and 32761 for CS294-196.**
