@@ -310,7 +310,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Oct 20</td>
-<td><strong>Multi-Agent AI</strong> <br> Noam Brown, OpenAI <br> [<a href="{{ site.baseurl }}/slides/multiagent_berkeley_2025.pptx.pdf">Slides</a>]</td>
+<td><strong>Multi-Agent AI</strong> <br> Noam Brown, OpenAI <br> [<a href="{{ site.baseurl }}/slides/multiagent_berkeley_2025.pptx.pdf">Slides</a>] [<a href="https://www.youtube.com/watch?v=SrLcGdVOb9w">Recording</a>]</td>
 <td></td>
 </tr>
 <tr>
