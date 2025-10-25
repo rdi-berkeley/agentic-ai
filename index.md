@@ -597,3 +597,7 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
 </table>
 
 <p class="timeline-note">Top 3 green agents will be selected and announced by 11/9.</p>
+
+## Article Timeline
+
+<p class="timeline-note">Article (for 1-unit students) is due on 12/7.</p>
