@@ -315,7 +315,7 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Oct 27</td>
-<td><strong>Predictable Noise in LLM</strong> <br> Sida Wang, Meta</td>
+<td><strong>Predictable Noise in LLM</strong> <br> Sida Wang, Meta <br> [<a href="{{ site.baseurl }}/slides/PredEval.pdf">Slides</a>]</td>
 <td>- <a href="https://arxiv.org/pdf/2411.00640">Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations</a></td>
 </tr>
 <tr>
