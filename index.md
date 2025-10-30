@@ -320,8 +320,8 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Nov 3</td>
-<td>James Zou, Stanford</td>
-<td></td>
+<td><strong>AI Agents to Automate Scientific Discoveries</strong> <br> James Zou, Stanford</td>
+<td>- <a href="https://www.nature.com/articles/s41586-025-09442-9">The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies</a> <br> - <a href="https://arxiv.org/abs/2509.06917">Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents</a></td>
 </tr>
 <tr>
 <td>Nov 10</td>
