@@ -601,3 +601,9 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
 ## Article Timeline
 
 <p class="timeline-note">Article (for 1-unit students) is due on 12/7.</p>
+
+## Office Hours
+
+- Baifeng: Fridays, 5:30–6:30pm PT via Zoom(https://berkeley.zoom.us/j/5157669897)
+
+- Xiuyu: Thursdays, 8–9am PT via Zoom (https://berkeley.zoom.us/j/93276025385)
