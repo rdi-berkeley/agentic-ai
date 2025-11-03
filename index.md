@@ -447,8 +447,8 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr class="section">
       <td>Phase 1</td>
       <td class="muted">—</td>
-      <td>Sum: 40%</td>
-      <td>Sum: 40%</td>
+      <td>Sum: 45%</td>
+      <td>Sum: 45%</td>
     </tr>
     <tr>
       <td class="sub">Proposal</td>
@@ -478,8 +478,8 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr class="section">
       <td>Phase 2</td>
       <td class="muted">—</td>
-      <td>Sum: 20%</td>
-      <td>Sum: 30%</td>
+      <td>Sum: 15%</td>
+      <td>Sum: 25%</td>
     </tr>
     <tr>
       <td class="sub">Competition agent implementation</td>
@@ -585,7 +585,6 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
   </tbody>
 </table>
 
-<p class="timeline-note">Top 3 green agents will be selected and announced by 11/9.</p>
 
 ## Article Timeline
 
