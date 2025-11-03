@@ -465,8 +465,8 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr>
       <td class="sub">Implementation</td>
       <td class="muted">—</td>
-      <td>15%</td>
-      <td>15%</td>
+      <td>20%</td>
+      <td>20%</td>
     </tr>
     <tr>
       <td class="sub">Documentation</td>
@@ -480,12 +480,6 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td class="muted">—</td>
       <td>Sum: 20%</td>
       <td>Sum: 30%</td>
-    </tr>
-    <tr>
-      <td class="sub">Competition agent proposal</td>
-      <td class="muted">—</td>
-      <td>5%</td>
-      <td>5%</td>
     </tr>
     <tr>
       <td class="sub">Competition agent implementation</td>
@@ -574,23 +568,18 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     </tr>
     <tr>
       <td>Green agent submission &mdash; implementation, documentation &amp; recording</td>
-      <td>10/20</td>
-      <td>11/3</td>
+      <td>11/5</td>
+      <td>11/17</td>
     </tr>
     <!-- NEW: Phase 2 row (row 7) -->
     <tr class="section">
-      <td>Phase 2 (top 3 green agents selected &amp; announced by 11/9)</td>
+      <td>Phase 2 (top 3 green agents selected &amp; announced by 11/20)</td>
       <td></td>
       <td></td>
-    </tr>
-    <tr>
-      <td>Competition agent proposal</td>
-      <td>11/10</td>
-      <td>11/17</td>
     </tr>
     <tr>
       <td>Competition agent final submission &mdash; implementation &amp; report</td>
-      <td>11/17</td>
+      <td>11/24</td>
       <td>12/12</td>
     </tr>
   </tbody>
