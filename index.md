@@ -482,27 +482,21 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td>Sum: 25%</td>
     </tr>
     <tr>
-      <td class="sub">Competition agent implementation</td>
+      <td class="sub">White agent implementation</td>
       <td class="muted">—</td>
       <td>10%</td>
       <td>20%</td>
     </tr>
     <tr>
-      <td class="sub">Competition agent report (1–2 pages)</td>
+      <td class="sub">White agent report (1–2 pages)</td>
       <td class="muted">—</td>
       <td>5%</td>
       <td>5%</td>
-    </tr>
-    <tr>
-      <td class="sub">Competition agent — bonus</td>
-      <td class="muted">—</td>
-      <td>0–15% bonus</td>
-      <td>0–15% bonus</td>
     </tr>
   </tbody>
 </table>
 
-<p class="grading-note">Bonus is awarded by ranking (top 3 in each green environment).</p>
+<p class="grading-note">Bonus will be awarded for participating in AgentX-AgentBeats Competition.</p>
 
 <div class="grading-announcement">
   <strong>Announcement for 1-Unit Students:</strong> You may choose to write an article or complete <em>Phase&nbsp;1</em> of the Agent Track. Either option is worth <strong>40%</strong> of your grade. If you choose the Agent Track, coding requirements are minimal—building a simple agent (e.g., via prompt engineering) is sufficient.
@@ -572,13 +566,8 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td>11/17</td>
     </tr>
     <!-- NEW: Phase 2 row (row 7) -->
-    <tr class="section">
-      <td>Phase 2 (top 3 green agents selected &amp; announced by 11/20)</td>
-      <td></td>
-      <td></td>
-    </tr>
     <tr>
-      <td>Competition agent final submission &mdash; implementation &amp; report</td>
+      <td>White agent final submission &mdash; implementation &amp; report</td>
       <td>11/24</td>
       <td>12/12</td>
     </tr>
