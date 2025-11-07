@@ -463,16 +463,10 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td>10%</td>
     </tr>
     <tr>
-      <td class="sub">Implementation</td>
+      <td class="sub">Final Green Agent Submission</td>
       <td class="muted">—</td>
-      <td>20%</td>
-      <td>25%</td>
-    </tr>
-    <tr>
-      <td class="sub">Documentation</td>
-      <td class="muted">—</td>
-      <td>10%</td>
-      <td>10%</td>
+      <td>30%</td>
+      <td>35%</td>
     </tr>
     <!-- Phase 2 -->
     <tr class="section">
