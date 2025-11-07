@@ -448,7 +448,7 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td>Phase 1</td>
       <td class="muted">—</td>
       <td>Sum: 45%</td>
-      <td>Sum: 45%</td>
+      <td>Sum: 50%</td>
     </tr>
     <tr>
       <td class="sub">Proposal</td>
@@ -466,7 +466,7 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td class="sub">Implementation</td>
       <td class="muted">—</td>
       <td>20%</td>
-      <td>20%</td>
+      <td>25%</td>
     </tr>
     <tr>
       <td class="sub">Documentation</td>
@@ -479,13 +479,13 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
       <td>Phase 2</td>
       <td class="muted">—</td>
       <td>Sum: 15%</td>
-      <td>Sum: 25%</td>
+      <td>Sum: 20%</td>
     </tr>
     <tr>
       <td class="sub">White agent implementation</td>
       <td class="muted">—</td>
       <td>10%</td>
-      <td>20%</td>
+      <td>15%</td>
     </tr>
     <tr>
       <td class="sub">White agent report (1–2 pages)</td>
