@@ -320,12 +320,12 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Nov 3</td>
-<td><strong>AI Agents to Automate Scientific Discoveries</strong> <br> James Zou, Stanford <br> [<a href="https://youtube.com/live/yqPIsTTdUkc?feature=share">Livestream</a>]</td>
+<td><strong>AI Agents to Automate Scientific Discoveries</strong> <br> James Zou, Stanford <br> [<a href="https://www.youtube.com/watch?v=yqPIsTTdUkc">Recording</a>]</td>
 <td>- <a href="https://www.nature.com/articles/s41586-025-09442-9">The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies</a> <br> - <a href="https://arxiv.org/abs/2509.06917">Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents</a></td>
 </tr>
 <tr>
 <td>Nov 10</td>
-<td>Clay Bavor, Sierra</td>
+<td><strong>Practical Lessons from Deploying Real-World AI Agents</strong> <br> Clay Bavor, Sierra</td>
 <td>- <a href="https://arxiv.org/pdf/2506.07982">τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment</a> <br> - <a href="https://sierra.ai/blog/voice-sims-test-agents-in-real-world-conditions-before-they-talk-to-your-customers">Voice Sims: test agents in real world conditions before they talk to customers</a></td>
 </tr>
 <tr>
