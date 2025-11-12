@@ -27,19 +27,15 @@ redirect_from:
   <tbody>
     <tr>
       <td>Instructor</td>
-      <td>(Guest) Co-instructor</td>
     </tr>
     <tr>
       <td><img src="assets/dawn-berkeley.jpg" height="200" alt="Dawn Song"></td>
-      <td><img src="assets/XinyunChen.jpg" height="200" alt="Xinyun Chen"></td>
     </tr>
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
-      <td>Xinyun Chen</td>
     </tr>
     <tr>
       <td>Professor, UC Berkeley</td>
-      <td>Research Scientist, Meta</td>
     </tr>
   </tbody>
 </table>
