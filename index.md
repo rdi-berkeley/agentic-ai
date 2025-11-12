@@ -46,26 +46,28 @@ redirect_from:
 
 <style>
   .instructors {
-    width: 100%;
+    width: 50%;
+    margin: 0 auto;
     table-layout: fixed;
     border-collapse: collapse;
   }
   .instructors td {
-    text-align: center;     
-    vertical-align: middle; 
+    text-align: center;
+    vertical-align: middle;
     padding: 10px;
   }
   .instructors img {
-    display: block; 
-    margin: 0 auto; 
+    display: block;
+    margin: 0 auto;
   }
 
   .teaching-staff {
     margin-top: 12px;
-    font-size: 16px; 
+    font-size: 16px;
     font-weight: 500;
     color: #64748b;
     line-height: 1.3;
+    text-align: center;
   }
 </style>
 
