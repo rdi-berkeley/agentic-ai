@@ -555,7 +555,7 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr>
       <td>Green agent submission &mdash; implementation, documentation &amp; recording</td>
       <td>11/7</td>
-      <td>11/17</td>
+      <td>11/23</td>
     </tr>
     <!-- NEW: Phase 2 row (row 7) -->
     <tr class="section">
