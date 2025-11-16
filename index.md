@@ -323,12 +323,12 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </tr>
 <tr>
 <td>Nov 10</td>
-<td><strong>Practical Lessons from Deploying Real-World AI Agents</strong> <br> Clay Bavor, Sierra <br> [<a href="{{ site.baseurl }}/slides/Practical_Lessons_AI_Agents.pdf">Slides</a>]</td>
+<td><strong>Practical Lessons from Deploying Real-World AI Agents</strong> <br> Clay Bavor, Sierra <br> [<a href="{{ site.baseurl }}/slides/Practical_Lessons_AI_Agents.pdf">Slides</a>] [<a href="https://www.youtube.com/watch?v=sfJM4LaiYsM">Recording</a>]</td>
 <td>- <a href="https://arxiv.org/pdf/2506.07982">τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment</a> <br> - <a href="https://sierra.ai/blog/voice-sims-test-agents-in-real-world-conditions-before-they-talk-to-your-customers">Voice Sims: test agents in real world conditions before they talk to customers</a></td>
 </tr>
 <tr>
 <td>Nov 17</td>
-<td>Oriol Vinyals, Google DeepMind</td>
+<td><strong>Multi-Agent Systems in the Era of LLMs</strong> <br> Oriol Vinyals, Google DeepMind <br> [<a href="https://youtube.com/live/ntjOxjZMaac?feature=share">Livestream</a>]</td>
 <td></td>
 </tr>
 <tr>
