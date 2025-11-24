@@ -41,7 +41,7 @@ redirect_from:
 </table>
 
 <h3 class="teaching-staff">
-  Teaching Staff: Xiuyu Li, Baifeng Shi, Chenyang Wang, Arhaan Aggarwal
+  Teaching Staff: Xiuyu Li, Baifeng Shi, Chenyang Wang, Arhaan Aggarwal, Richik Pal
 </h3>
 
 <style>
@@ -581,3 +581,5 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
 - Baifeng: Fridays, 5:30–6:30pm PT via Zoom(https://berkeley.zoom.us/j/5157669897)
 
 - Xiuyu: Thursdays, 8–9am PT via Zoom (https://berkeley.zoom.us/j/93276025385)
+
+- Richik: Time varies for each week. See Ed for OH announcements for each week. (https://berkeley.zoom.us/j/4342423164)
