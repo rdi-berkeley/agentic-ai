@@ -13,6 +13,12 @@ redirect_from:
   </p>
 </div>
 
+<div style="background-color: #fff3cd; border: 2px solid #ffc107; padding: 20px 30px; margin-bottom: 30px; border-radius: 8px;">
+  <p style="font-size: 1.1em; line-height: 1.6; color: #856404; margin: 0;">
+    <strong>Reminder:</strong> The Dec 8th class will start from 11:30am - 1:30pm PT.
+  </p>
+</div>
+
 ## Prospective Students
 
 - **Students interested in the course should first try enrolling in the course in CalCentral. Please join the waitlist if the class is full. The class number is 15131 for CS194-196 and 32761 for CS294-196.**
@@ -351,7 +357,6 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 </div>
 
 <div style="height:56px"></div>
-
 
 ## Enrollment and Grading
 
