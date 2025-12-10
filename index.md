@@ -571,7 +571,7 @@ This is a variable-unit course. Detailed grading breakdown will be released soon
     <tr>
       <td>White agent final submission &mdash; implementation &amp; report</td>
       <td>11/24</td>
-      <td>12/12</td>
+      <td>12/17</td>
     </tr>
   </tbody>
 </table>
